@@ -5,7 +5,7 @@
 Project 3 - GitHub
 
 ### Description
-Describe what your project is about and what it does
+Created a branch named "documentation"
 
 ### Files used
 Include the files used
