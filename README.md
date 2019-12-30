@@ -14,5 +14,13 @@ The bikeshare project uses data provided by Motivate, a bike share system provid
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+pandas.to_datetime: 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
+https://stackoverflow.com/questions/26763344/convert-pandas-column-to-datetime
+https://stackoverflow.com/questions/52952184/extract-the-hour-part-from-the-time-and-return-it-as-an-integer-with-pandas
+Mode function: 
+http://www.datasciencemadesimple.com/mode-function-python-pandas-dataframe-row-column-wise-mode/
+input validation:
+https://stackoverflow.com/questions/55063160/how-to-make-user-input-not-case-sensitive-in-python-3
+https://www.extendoffice.com/documents/excel/821-excel-convert-date-to-weekday-month-name.html
 
