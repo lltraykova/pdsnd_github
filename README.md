@@ -5,7 +5,7 @@
 Project 3 - GitHub
 
 ### Description
-Created a branch named "documentation"
+The bikeshare project uses data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. This project compares the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ### Files used
 Include the files used
